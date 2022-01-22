@@ -1,0 +1,25 @@
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+.form-body{
+    display: relative;
+    text-align: center;
+    margin:auto;
+}
+
+.lead{
+    display: inline;
+}
+#input{
+    width: 50%;
+    margin: auto;
+}
+#submit{
+    margin: 10px;
+}
+.items{
+    margin: auto;
+    width: 50%;
+    margin-top: 40px;
+}
